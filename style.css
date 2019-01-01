@@ -1,0 +1,54 @@
+* {
+    background-color: antiquewhite;
+}
+.area {
+    display: none;
+}
+.show {
+    display:block;
+}
+
+p {
+    font-style: italic;
+    text-align: justify;
+
+}
+#heads {
+    font-size: 20px;
+    font-weight: bold;
+}
+h3 {
+    text-align: center;
+    text-shadow: 1px 1px 1px dimgray;
+}
+img {
+    margin: 6px;
+}
+p  {
+    padding-top: 10px;
+}
+
+#button4 {
+    font-weight: bold;
+    text-shadow:  0 0 1px dimgray;
+}
+#button5 {
+    font-weight: bold;
+    text-shadow:  0 0 1px dimgray;
+}
+#button6 {
+    font-weight: bold;
+    text-shadow:  0 0 1px dimgray;
+}
+.navbar-brand {
+    margin-left: 45%;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+.footer-margin {
+  height: 100%;
+}
+footer {
+    font-weight: bold;
+}
